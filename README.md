@@ -1,10 +1,7 @@
-# Friday Night Funkin' (Week 7 Port)
-
-This is a Github repository for Friday Night Funkin' v0.2.8, one of the versions of the game thats only on a select few of web-pages, and no site of an OFFICIAL source code for that current version of the game.
-
+# Friday Night Funkin' Space Engine
 ## Disclaimer !!
 
-I just want to say i dont own any rights to these assets or songs, let alone some of the code in this repo. I only did this mini FNF project build for coding practice.
+I just want to say i dont own any rights to these assets or songs, let alone some of the code in this repo.
 This FNF version will be worked on regularly, with me adding new features, and adding more week 7 assets and junk, so be on the lookout for that!
 
 ## Support Friday Night Funkin'
@@ -22,15 +19,6 @@ Support the Kickstarter https://www.kickstarter.com/projects/funkin/friday-night
 - [ninjamuffin99](https://twitter.com/ninja_muffin99) - Programmer
 - [PhantomArcade3K](https://twitter.com/phantomarcade3k) & [Evilsk8r](https://twitter.com/evilsk8r) - Art
 - [Kawaisprite](https://twitter.com/kawaisprite) - Musician
-
-**Week 7 porters**
-- [Legend (thats me!!!)](https://twitter.com/AnimatingLegend) - Programmer (Week 7 port)
-
-**shoutout**
-- [OldFlag](https://github.com/ItzOldFlagDEV) - Additional Programmer (optimized a majority of the week7 port!!)
-- [TackDrawz](https://www.youtube.com/channel/UCAPDPJuunLWQJzOXA_3yEfw) - Art (made a couple of assets for my engine!)
-
-This game was made with love to Newgrounds and its community. Extra love to Tom Fulp.
 
 ## Build instructions
 
